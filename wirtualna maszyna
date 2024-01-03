@@ -1,0 +1,10 @@
+Wirtualizacja, maszyna wirtualna – co to jest? Najprościej rzecz ujmując, wirtualizacja to dzielenie zasobów komputera na kilka środowisk. 
+Efektem tego procesu jest stworzenie maszyny lub maszyn wirtualnych (VM) na jednym komputerze fizycznym. Można powiedzieć, że wirtualna maszyna to komputer stworzony w obrębie innego komputera. 
+Wirtualne maszyny funkcjonują jak odrębne komputery, jednak tak naprawdę nimi nie są, korzystając z zasobów komputera, na którym zostały zainstalowane. 
+Wirtualna maszyna jest również nazywana symulowanym komputerem. 
+Co można zwirtualizować? Wirtualizacji możemy poddać takie elementy, jak: 
+- serwer, 
+- desktop, 
+- pamięć masowa, 
+- sieć, 
+- aplikacja.
