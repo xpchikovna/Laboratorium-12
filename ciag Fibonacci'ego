@@ -1,0 +1,21 @@
+public static class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Ciąg Fibonacciego do 50:");
+
+        for (int i = 1; i <= 50; i++)
+        {
+            Console.WriteLine($"F({i}) = {Fibonacci(i)}");
+        }
+    }
+
+    static int Fibonacci(int n)
+    {
+        if (n <= 1)
+        {
+            return n;
+        }
+        return Fibonacci(n - 1) + Fibonacci(n - 2);
+    }
+}
